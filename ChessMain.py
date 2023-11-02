@@ -4,7 +4,7 @@ import ChessEngine
 
 
 
-
+#pygame window
 WIDTH = HEIGHT = 512
 DIMENSION = 8
 SQ_SIZE = HEIGHT // DIMENSION

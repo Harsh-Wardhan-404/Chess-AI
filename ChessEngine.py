@@ -54,10 +54,10 @@ class GameState():
     '''All moves considering checks'''
     def getValidMoves(self):
         '''
-        1. generate all possible moves
-        2. for each move, make the move
+        1. generate all possible moves.
+        2. for each move, make the move.
         3. generate all opponent's moves;
-        4. for each of your oppo's moves, see if they attack your king
+        4. for each of your oppo's moves, see if they attack your king.
         5. if they do attack your king --> not a valid move .
         '''
 
